@@ -8,4 +8,4 @@
   <li>Barbacoa</li>
 </ol>
 
-<h5>Please go to <a href="http://alex-galvan.com">to my website</a> for more information!</h5>
+<h5>Please go to <a href="http://alex-galvan.com" target="_blank">to my website</a> for more information!</h5>
